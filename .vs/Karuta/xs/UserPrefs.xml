@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{D5A2DB1D-0682-E58A-1664-393212C8EBA7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/KarutaManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Karuta.cs" Line="17" Column="6" />
+      <File FileName="Assets/Scripts/KarutaManager.cs" Line="30" Column="6" />
+      <File FileName="Assets/Scripts/CSVReader.cs" Line="84" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
